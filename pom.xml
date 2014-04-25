@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jwerty</artifactId>
-    <version>0.3.2-SNAPSHOT</version>
+    <version>0.3.2</version>
     <name>jwerty</name>
     <description>WebJar for jwerty</description>
     <url>http://webjars.org</url>
@@ -36,7 +36,7 @@
         <url>http://github.com/webjars/jwerty</url>
         <connection>scm:git:https://github.com/webjars/jwerty.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jwerty.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jwerty-0.3.2</tag>
     </scm>
     
     <properties>
